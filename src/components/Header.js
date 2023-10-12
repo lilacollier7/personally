@@ -10,7 +10,7 @@ const Header = () => {
                 <h1>Welcome to CA Rachana Ranade</h1>
                 <p>Gold | News | Stocks</p>
                 <br></br>
-                <a href="mailto:silverseeker.online@gmail.com" target="_blank" className="button">Email Now</a>
+                <a href="https://wa.me/18088305161" target="_blank" className="button">Whatsapp Now</a>
             </div>
         </section>
     );
